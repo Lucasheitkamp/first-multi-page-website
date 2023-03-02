@@ -15,9 +15,10 @@ img {
     height: 500px;
 }
 div { 
-background-color: rgb(113, 219, 108);
+background-color: rgb(222, 203, 120);
 margin: auto;
 width: 100px;;
+opacity: 50%;
 }
 
 section { 
@@ -35,4 +36,16 @@ ul {
 li {
     display: inline-block;
     margin-right: 20px;
+}
+
+.index-p {
+    color: brown;
+    font-family: 'Courier New', Courier, monospace; font-size: smaller;
+    
+}
+
+#about-p {
+    background-color: wheat;
+    font-style: italic;
+    font-size: larger;
 }
